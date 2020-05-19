@@ -8,7 +8,7 @@
 strategy(title="Fianchetto v1", overlay=true, pyramiding=0, initial_capital=5000, currency=currency.USD, calc_on_order_fills=0, default_qty_type=strategy.fixed, default_qty_value=4)
 //------------------------------------------------------------------------------
 //Time Frame
-_0 = input(false,  "════════ Test Period ═══════")
+_0 = input(false,  "Test Period")
 testStartYear = input(2016, "Backtest Start Year")
 testStartMonth = input(9, "Backtest Start Month")
 testStartDay = input(30, "Backtest Start Day")
