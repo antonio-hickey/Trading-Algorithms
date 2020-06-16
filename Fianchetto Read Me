@@ -1,5 +1,0 @@
-The idea behind Fianchetto was to utilize the direction of a Moving Average to gain an alpha over Simple Moving Averages 
-while using a beta Moving Average to filter out binary trades and only allowing longs, or only shorts. We also gain an 
-edge by using a Volatility factor to the Moving Average filtering out white noise throughout the trade. Here is a link 
-to the TradingView Strategy i wrote https://www.tradingview.com/script/vCEoFf0a-Fianchetto-v1/ This algorithm is written 
-in PineScript for TradingView.com use, my account is "QuantsGambit" if you have any questions.
