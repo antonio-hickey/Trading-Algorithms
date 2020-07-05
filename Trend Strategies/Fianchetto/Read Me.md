@@ -8,7 +8,7 @@
  \____ $$$ \______/  \_______/|__/  |__/   \___/ |_______/  \______/  \_______/|__/ |__/ |__/|_______/ |__/   \___/  
       \__/                                                                                                          
 
-[Fianchetto](https://www.tradingview.com/script/vCEoFf0a-Fianchetto-v1/)
+#[Fianchetto](https://www.tradingview.com/script/vCEoFf0a-Fianchetto-v1/)
   - Language = PineScript for use with [TradingView](www.TradingView.com)
   - Trend Strategy
   - High Frequency of Signals
